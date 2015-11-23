@@ -6,7 +6,7 @@
 
   \books - the aggregate of visualassets, layout and words
   
-  The books folder will contain subfolders titled after each book containing the released formats for each book while the main folder will hold the preferred format of the book (Most likely to be in Markdown).
+  The books folder may contain subfolders titled after the books which should contain the released formats of each book. The books folder will hold the preferred format of the book (Most likely to be in Markdown).
 
   \visualassets - fleshed out, ready to use Artistic/Visual assets
 
