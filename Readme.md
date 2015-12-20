@@ -1,29 +1,31 @@
 1.  Project description
 
-  The aim of this project is to collaboratively 'self-publish' mechanics, settings and artwork developed for a campaign based on the 5th Edition Dungeon & Dragons ruleset.
+The aim of this project is to collaboratively 'self-publish' mechanics, settings and artwork developed for a campaign based on the 5th Edition Dungeon & Dragons ruleset.
 
-2.  File structure/dictionary
+1.  File structure/dictionary
 
-  \books - the aggregate of visualassets, layout and words
-  
-  The books folder may contain subfolders titled after the books which should contain the released formats of each book. The books folder will hold the preferred format of the book (Most likely to be in Markdown).
+- the aggregate of visualassets, layout and words
 
-  \visualassets - fleshed out, ready to use Artistic/Visual assets
+The books folder may contain subfolders titled after the books which should contain the released formats of each book. The books folder will hold the preferred format of the book (Most likely to be in Markdown).
 
-  ...\roughs - digitized copy of sketches or hand-drawn visual assets
+- fleshed out, ready to use Artistic/Visual assets
 
-  ...\sources - the digital raw materials used to build visual assets
+...- digitized copy of sketches or hand-drawn visual assets
 
-  \words - fleshed out, paragraphed, ready to use textual assets
+...- the digital raw materials used to build visual assets
 
-  ...\sources - the raw material of words, collections of thoughts, isolated concepts
+- fleshed out, paragraphed, ready to use textual assets
 
-  \tools - software tools we've decided on using to help us
+...- the raw material of words, collections of thoughts, isolated concepts
 
-3.  Copyright type
+- software tools we've decided on using to help us
 
-  Wiki link to license/copyright discussion page: 
+1.  Copyright type
 
-4.  Points of contact
+Wiki link to license/copyright discussion page:
 
-  Gerald Boutwell - mailger@mail.com
+1.  Points of contact
+
+Gerald Boutwell - <mailger@mail.com>
+
+Eric Fridh –
